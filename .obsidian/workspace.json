@@ -1,0 +1,303 @@
+{
+  "main": {
+    "id": "029628371942e1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "84181fbce707fdf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8853c38e755f9471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 - Resources/310 - Categories/+ Categories Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "677bde94ae67ea46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f662d2e84a44050",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -10,
+                  "y": -130,
+                  "zoom": -0.4802758724301416
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36b846d6c40d7259",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbc5c70c622a7123",
+        "type": "tabs",
+        "dimension": 63.827655310621246,
+        "children": [
+          {
+            "id": "ffd602b4e8a90a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b512a139ff206e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c38e045ec8557214",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "137bbe08b9d96aee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6d2954d7496c0f84",
+        "type": "tabs",
+        "dimension": 36.172344689378754,
+        "children": [
+          {
+            "id": "861a8e0b187ebdda",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/Mini Dashboard.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "771bc596cdab28f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf654524d5f5b48",
+        "type": "tabs",
+        "dimension": 33.46153846153846,
+        "children": [
+          {
+            "id": "ef8b14ef355196fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "638b5c8b21abe059",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f45a6198c7266cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md"
+              }
+            }
+          },
+          {
+            "id": "7e0083112aa38a62",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "a9bb576e9ef41c29",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "20a2c10d568584a6",
+        "type": "tabs",
+        "dimension": 66.53846153846153,
+        "children": [
+          {
+            "id": "7b4e790324a5e6cb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 - Archive/430 - Obsidian/Task List.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-kanban:Create new board": true,
+      "obsidian-book-search-plugin:Create new book note": false
+    }
+  },
+  "active": "677bde94ae67ea46",
+  "lastOpenFiles": [
+    "400 - Archive/430 - Obsidian/432 - Guide/400 - Archive.md",
+    "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+    "400 - Archive/430 - Obsidian/432 - Guide/300 - Resources.md",
+    "400 - Archive/430 - Obsidian/432 - Guide/200 - Projects.md",
+    "400 - Archive/430 - Obsidian/Mini Dashboard.md",
+    "400 - Archive/430 - Obsidian/432 - Guide/100 - Inbox.md",
+    "300 - Resources/310 - Categories/+ Categories Index.md",
+    "100 - Inbox/+ Inbox.md",
+    "400 - Archive/430 - Obsidian/432 - Guide/Use scheme.canvas",
+    "Home.canvas",
+    "400 - Archive/430 - Obsidian/Task List.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) P Project.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) N Note.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) D Diary Note.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) C Category.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) Book.md",
+    "400 - Archive/430 - Obsidian/431 - Templates/(Template) Action.md",
+    "400 - Archive/410 - Diary/15-08-2024.md",
+    "400 - Archive/410 - Diary/16-08-2024.md",
+    "400 - Archive/430 - Obsidian/Untitled",
+    "300 - Resources/320 - Notes/+ Notes Index.md",
+    "300 - Resources/310 - Categories/C todo rico.md",
+    "300 - Resources/320 - Notes/N todo bien.md",
+    "300 - Resources/330 - Canvas/Untitled.canvas",
+    "200 - Projects/+ Projects Kanban.md",
+    "200 - Projects/tal.md",
+    "200 - Projects/asjdkas.md",
+    "200 - Projects/Trip.md",
+    "100 - Inbox/todo rico @08-08-2024.md",
+    "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822134534.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822143241.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822143636.png",
+    "400 - Archivo/410 - Diario",
+    "400 - Archivo",
+    "400 - Archive/420 - External files/422 - Images/System images/Add note from vault 1.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Categories scheme.png",
+    "Untitled.canvas",
+    "400 - Archive/420 - External files/422 - Images/System images/Home.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Creating a note.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Creación de proyectos.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Bookseach icon.png",
+    "400 - Archive/420 - External files/422 - Images/System images/Acciones de proyecto.png",
+    "400 - Archive/420 - External files/422 - Images/System images",
+    "300 - Recursos/320 - Notas",
+    "300 - Recursos",
+    "300 - Recursos/310 - Categorías",
+    "400 - Archive/420 - External files/424 - Videos",
+    "400 - Archive/420 - External files/423 - Gifs",
+    "400 - Archivo/430 - Obsidian/432 - Guía.rar",
+    "300 - Recursos/330 - Canvas/Metodo Plocos Distribución de Clases.canvas",
+    "300 - Recursos/Sin título.canvas",
+    "300 - Recursos/Metodo Plocos Distribución de Clases.canvas",
+    "300 - Recursos/450 - Canvas/Sin título.canvas",
+    "300 - Recursos/450 - Canvas/Metodo Plocos Distribución de Clases.canvas",
+    "450 - Canvas/Sin título.canvas"
+  ]
+}

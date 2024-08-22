@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Oros Theme",
+  "accentColor": "#b18859",
+  "enabledCssSnippets": [
+    "InicioMini",
+    "ListaTareas",
+    "RemoveHeader",
+    "Tables",
+    "CanvasInicio"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Año": "date",
+    "Nota referencia": "multitext",
+    "Enlace": "text",
+    "Nota índice": "multitext",
+    "Proyecto": "multitext",
+    "Estado": "checkbox",
+    "Terminado": "checkbox",
+    "Publicado": "number",
+    "Tipo": "text",
+    "Fecha": "date",
+    "Tag": "text",
+    "Pertenece a": "multitext"
+  }
+}
