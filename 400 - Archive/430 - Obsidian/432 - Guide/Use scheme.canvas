@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"73eb29a94ebe79e0","type":"text","text":"# Use scheme","x":-158,"y":-340,"width":250,"height":60,"color":"3"},
+		{"id":"8d870d0e417e56cc","type":"text","text":"### Relations","x":-564,"y":-154,"width":250,"height":60,"color":"4"},
+		{"id":"8756947d43a6ebea","type":"text","text":"### Shortcuts","x":-158,"y":-154,"width":250,"height":60,"color":"3"},
+		{"id":"c185edb87a40a9c3","type":"text","text":"### Extra","x":219,"y":-154,"width":250,"height":60,"color":"#404fc4"},
+		{"id":"19b0e29c17a2bd77","type":"text","text":"Create -> **Ctrl + N** ([[Quickadd]])","x":-158,"y":-40,"width":250,"height":60,"color":"3"},
+		{"id":"5ac3eaecc0472094","type":"text","text":"Alternate edition mode -> **Ctrl + E**","x":-158,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"7df904cc276cd74e","type":"text","text":"Home, graph, diary and add book -> Left sidebar","x":219,"y":-43,"width":250,"height":63,"color":"#404fc4"},
+		{"id":"7b0a3d36e84cc365","type":"text","text":"[[310 - Categories]]","x":-689,"y":-40,"width":250,"height":60,"color":"4"},
+		{"id":"8b4bba994eea28ae","type":"text","text":"[[200 - Projects| 200 - Projects]]","x":-439,"y":80,"width":179,"height":60,"color":"4"},
+		{"id":"0dcd7e2c1fdf1973","type":"text","text":"[[330 - Canvas]]","x":-648,"y":80,"width":169,"height":60,"color":"4"},
+		{"id":"f0a4c2fccf4c0343","type":"text","text":"[[320 - Notes]]","x":-860,"y":80,"width":171,"height":60,"color":"4"},
+		{"id":"2fd9a14da9dba93d","type":"text","text":"Highlight text -> **Ctrl + D** ([[Highlightr]])","x":-158,"y":207,"width":250,"height":53,"color":"3"},
+		{"id":"538737d40e28d1ca","x":-158,"y":320,"width":250,"height":60,"color":"3","type":"text","text":"Obsidian command -> **Ctrl + P**"},
+		{"id":"0dd5d8745fd03380","type":"text","text":"Folders and search -> Top left bar","x":219,"y":80,"width":250,"height":80,"color":"#404fc4"},
+		{"id":"8797de2a5d1c63ba","type":"text","text":"Calendar -> Top right bar","x":219,"y":220,"width":250,"height":60,"color":"#404fc4"}
+	],
+	"edges":[
+		{"id":"06bdc99df076d166","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"8d870d0e417e56cc","toSide":"top"},
+		{"id":"3c051d984037952d","fromNode":"8d870d0e417e56cc","fromSide":"bottom","toNode":"7b0a3d36e84cc365","toSide":"top"},
+		{"id":"b45fbbf2fec715c2","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"f0a4c2fccf4c0343","toSide":"top"},
+		{"id":"f0918cf7e7d78607","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"0dcd7e2c1fdf1973","toSide":"top"},
+		{"id":"a4a3973c3222a848","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"8756947d43a6ebea","toSide":"top"},
+		{"id":"9aaa5994994710fc","fromNode":"7b0a3d36e84cc365","fromSide":"bottom","toNode":"8b4bba994eea28ae","toSide":"top"},
+		{"id":"d50600e77062ae00","fromNode":"73eb29a94ebe79e0","fromSide":"bottom","toNode":"c185edb87a40a9c3","toSide":"top"},
+		{"id":"72a9ab6ed3f10ed4","fromNode":"8756947d43a6ebea","fromSide":"bottom","toNode":"19b0e29c17a2bd77","toSide":"top"},
+		{"id":"accd7bb2686c78fc","fromNode":"19b0e29c17a2bd77","fromSide":"bottom","toNode":"5ac3eaecc0472094","toSide":"top"},
+		{"id":"b8ce1e6d70e5afe8","fromNode":"5ac3eaecc0472094","fromSide":"bottom","toNode":"2fd9a14da9dba93d","toSide":"top"},
+		{"id":"3ea1ecb2e702eea9","fromNode":"c185edb87a40a9c3","fromSide":"bottom","toNode":"7df904cc276cd74e","toSide":"top"},
+		{"id":"9dc28fc1e8764f06","fromNode":"7df904cc276cd74e","fromSide":"bottom","toNode":"0dd5d8745fd03380","toSide":"top"},
+		{"id":"73cf0f4e78335491","fromNode":"0dd5d8745fd03380","fromSide":"bottom","toNode":"8797de2a5d1c63ba","toSide":"top"},
+		{"id":"718296db6f59c703","fromNode":"2fd9a14da9dba93d","fromSide":"bottom","toNode":"538737d40e28d1ca","toSide":"top"}
+	]
+}
