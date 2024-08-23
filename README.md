@@ -12,3 +12,8 @@ It's so simple to install the system on your Obsidian:
 
 5. When the new window opens, select this option. A file explorer will open and you will need to select the Oros Obsidian folder that you previously placed in your preferred location.
 <br>![image](https://github.com/user-attachments/assets/37260508-47ad-407a-93d1-e1a03052ed58)
+
+6. Once the vault is open, click this button so you can use the addons needed for OROS to work.
+<br>![fotocol](https://github.com/user-attachments/assets/38b12c03-5141-4793-a01d-06ab7832cfab)
+
+7. Finally, you should restart Obsidian.
