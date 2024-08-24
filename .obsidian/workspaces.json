@@ -207,6 +207,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "templater-obsidian:Templater": true,
           "switcher:Open quick switcher": true,
           "homepage:Open homepage": false,
           "graph:Open graph view": false,
@@ -220,7 +221,7 @@
         }
       },
       "active": "ffd602b4e8a90a50",
-      "mtime": "2024-08-21T22:50:12+02:00"
+      "mtime": "2024-08-24T14:42:02+02:00"
     }
   },
   "active": "Inicio"

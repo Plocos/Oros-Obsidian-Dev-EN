@@ -11,43 +11,18 @@
             "id": "8853c38e755f9471",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 - Resources/310 - Categories/+ Categories Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "677bde94ae67ea46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f662d2e84a44050",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Home.canvas",
                 "viewState": {
                   "x": -10,
                   "y": -130,
-                  "zoom": -0.4802758724301416
+                  "zoom": -0.4817763354264332
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+                "file": "Home.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
+                "file": "Home.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md"
+                "file": "Home.canvas"
               }
             }
           },
@@ -230,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": true,
       "switcher:Open quick switcher": true,
       "homepage:Open homepage": false,
       "graph:Open graph view": false,
@@ -242,18 +218,30 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "677bde94ae67ea46",
+  "active": "ffd602b4e8a90a50",
   "lastOpenFiles": [
+    "400 - Archive/430 - Obsidian/Mini Dashboard.md",
+    "Home.canvas",
     "400 - Archive/430 - Obsidian/432 - Guide/400 - Archive.md",
     "400 - Archive/430 - Obsidian/432 - Guide/+ Guide.md",
     "400 - Archive/430 - Obsidian/432 - Guide/300 - Resources.md",
     "400 - Archive/430 - Obsidian/432 - Guide/200 - Projects.md",
-    "400 - Archive/430 - Obsidian/Mini Dashboard.md",
     "400 - Archive/430 - Obsidian/432 - Guide/100 - Inbox.md",
+    "400 - Archive/420 - External files/424 - Videos/System videos/archive.mp4",
+    "400 - Archive/420 - External files/424 - Videos/System videos/inbox.mp4",
+    "400 - Archive/420 - External files/424 - Videos/DELETE ME.md",
+    "400 - Archive/420 - External files/424 - Videos/System videos",
+    "400 - Archive/420 - External files/424 - Videos/System videos/resources.mp4",
+    "400 - Archive/420 - External files/424 - Videos/System videos/projects.mp4",
+    "400 - Archive/420 - External files/422 - Images/inbox.gif",
+    "300 - Resources/330 - Canvas/DELETE ME.md",
+    "400 - Archive/420 - External files/423 - Gifs/DELETE ME.md",
+    "400 - Archive/420 - External files/421 - Documents/Books/DELETE ME.md",
+    "400 - Archive/410 - Diary/DELETE ME.md",
+    "400 - Archive/420 - External files/421 - Documents/Books",
     "300 - Resources/310 - Categories/+ Categories Index.md",
     "100 - Inbox/+ Inbox.md",
     "400 - Archive/430 - Obsidian/432 - Guide/Use scheme.canvas",
-    "Home.canvas",
     "400 - Archive/430 - Obsidian/Task List.md",
     "400 - Archive/430 - Obsidian/431 - Templates/(Template) P Project.md",
     "400 - Archive/430 - Obsidian/431 - Templates/(Template) N Note.md",
@@ -268,11 +256,6 @@
     "300 - Resources/310 - Categories/C todo rico.md",
     "300 - Resources/320 - Notes/N todo bien.md",
     "300 - Resources/330 - Canvas/Untitled.canvas",
-    "200 - Projects/+ Projects Kanban.md",
-    "200 - Projects/tal.md",
-    "200 - Projects/asjdkas.md",
-    "200 - Projects/Trip.md",
-    "100 - Inbox/todo rico @08-08-2024.md",
     "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822134534.png",
     "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822143241.png",
     "400 - Archive/420 - External files/422 - Images/System images/Pasted image 20240822143636.png",
@@ -285,14 +268,7 @@
     "400 - Archive/420 - External files/422 - Images/System images/Creating a note.png",
     "400 - Archive/420 - External files/422 - Images/System images/Creación de proyectos.png",
     "400 - Archive/420 - External files/422 - Images/System images/Bookseach icon.png",
-    "400 - Archive/420 - External files/422 - Images/System images/Acciones de proyecto.png",
     "400 - Archive/420 - External files/422 - Images/System images",
-    "300 - Recursos/320 - Notas",
-    "300 - Recursos",
-    "300 - Recursos/310 - Categorías",
-    "400 - Archive/420 - External files/424 - Videos",
-    "400 - Archive/420 - External files/423 - Gifs",
-    "400 - Archivo/430 - Obsidian/432 - Guía.rar",
     "300 - Recursos/330 - Canvas/Metodo Plocos Distribución de Clases.canvas",
     "300 - Recursos/Sin título.canvas",
     "300 - Recursos/Metodo Plocos Distribución de Clases.canvas",

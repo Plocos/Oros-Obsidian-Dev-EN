@@ -14,6 +14,7 @@
     "Tipo": "text",
     "Fecha": "date",
     "Tag": "text",
-    "Pertenece a": "multitext"
+    "Pertenece a": "multitext",
+    "Related to": "multitext"
   }
 }
