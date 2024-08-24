@@ -8,7 +8,7 @@ Projects **projects** at Obsidian represent large long-term efforts, whether per
 - Finish an English course
 - Rearrange living room furniture
 
-![](https://imgur.com/CVmpf4T.gif)
+![[projects.mp4]]
 ### Project statuses
 
 The Kanban board allows you to clearly see the status of each project, and within each project, the status of each task. This simplifies time and resource management. By default, the available statuses are:

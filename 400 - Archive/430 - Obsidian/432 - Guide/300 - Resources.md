@@ -1,7 +1,7 @@
 ## [[+ Categories Index|Resources]]
 Resources, their creation, linking and maintenance, in Oros are managed by the Zettelkasten method.The _Zettelkasten_ method is a method for taking notes and managing your knowledge. Its peculiar name comes from two German words: _Zettel_ (note) and _kasten_ (drawer). 
 
-![](https://imgur.com/eAhQNHo.gif)
+![[resources.mp4]]
 ### Types of notes
 
 There are variations, but a classic _Zettellkasten_ has 4 types of notes. In our case, we have simplified the system into categories and notes, keeping the functionalities and facilitating the daily use and understanding. In addition, there are Canvas, dashboards that allow you to visualize information and create diagrams.

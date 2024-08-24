@@ -1,7 +1,7 @@
 ## [[+ Inbox|Inbox]]
 The **inbox** is a flexible task management system, presented in a visual **Kanban system** that offers an efficient and customized workflow.
 
-![](https://imgur.com/4v67W2L.gif)
+![[inbox.mp4]]
 
 ### What tasks should be noted in the inbox?
 
