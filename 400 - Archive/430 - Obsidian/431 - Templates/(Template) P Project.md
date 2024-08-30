@@ -26,7 +26,13 @@ Related to:
 ## 🗃 Asociated Resources
 
 - [ ] ```dataviewjs
-	var results = dv.current().file.inlinks
+	var results = dv.current().file.inlinks.where(r => {  
+		if(r.toString().contains("+ Projects Kanban")){ 
+			return false  
+		}else{
+			return true
+		}
+	})
 	
 	dv.table(["Asociated Resources"], results.map(r => [r]))
 	```
